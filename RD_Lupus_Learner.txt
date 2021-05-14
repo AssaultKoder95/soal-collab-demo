@@ -1,0 +1,3 @@
+let user_name ="abc";
+user_name ="xyz";
+console.log(user_name);
